@@ -12,7 +12,7 @@ Coming Soon
 
 ## 📸 Preview
 
-![Preview](./public/preview.png)
+![Preview](./frontend/public/preview.png)
 
 ---
 
